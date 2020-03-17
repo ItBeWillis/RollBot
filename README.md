@@ -1,0 +1,2 @@
+# RollBot
+Discord Dice Roll
